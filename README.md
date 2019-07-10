@@ -8,6 +8,15 @@
 
 **Nota**: puede darse el caso de que incluya algún evento nacional o internacional que se celebre en Valencia.
 
+## Eventos anuales
+
+Lista de eventos que se celebran todos los años en Valencia y de los que puedes ir preparándote para participar como ponente:
+
+* [Semana Informática](https://www.semanainformatica.com)
+* [VLCTechFest](https://vlctechfest.org)
+* [VLCTesting](https://vlctesting.es)
+* [VLCSofting](https://www.vlcsofting.es)
+
 ## Comunidades
 
 * [:bird:](http://twitter.com/AgileLevante) [Agile Levante](https://www.meetup.com/es-ES/Agile-Levante/)
