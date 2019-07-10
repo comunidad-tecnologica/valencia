@@ -16,6 +16,7 @@ Lista de eventos que se celebran todos los años en Valencia y de los que puedes
 * [VLCTechFest](https://vlctechfest.org)
 * [VLCTesting](https://vlctesting.es)
 * [VLCSofting](https://www.vlcsofting.es)
+* [Women Techmakers Valencia](https://womentechmakersvalencia.com)
 
 ## Comunidades
 
