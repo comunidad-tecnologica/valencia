@@ -23,6 +23,7 @@ Lista de eventos que se celebran todos los años en Valencia y de los que puedes
 * [:bird:](http://twitter.com/AgileLevante) [Agile Levante](https://www.meetup.com/es-ES/Agile-Levante/)
 * [:bird:](http://twitter.com/awsvalenciaes) [AWS](https://www.meetup.com/es-ES/AWS-Valencia/)
 * [:bird:](http://twitter.com/valenciadevops) [DevOps](https://www.meetup.com/es-ES/Valencia-DevOps)
+* [:bird:](https://twitter.com/VlcGophers) [Go](https://www.meetup.com/Valencia-Go-Meetup/)
 * [:bird:](http://twitter.com/devscola) [Devscola](https://www.meetup.com/es-ES/Aprende-a-programar-en-Valencia/)
 * [:bird:](https://twitter.com/FemDevs) FemDevs
 * [:bird:](https://twitter.com/gdgvalencia) [GDG](https://www.meetup.com/es-ES/GDGValencia)
