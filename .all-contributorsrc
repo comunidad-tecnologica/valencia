@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "pollosp",
+      "name": "Olopez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1783343?v=4",
+      "profile": "http://opsit.blogspot.com.es/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "valencia",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
