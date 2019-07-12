@@ -1,0 +1,18 @@
+<ul>
+{% for community in site.data.communities %}
+    <li>
+        {{ community.title }}:
+        <ul>
+          {% if community.web %} 
+          <li><a href="{{ community.web }}" title="Web de {{ community.title }}">Web</a></li>
+          {% endif %}
+          {% if community.meetup-url %} 
+          <li><a href="{{ community.meetup-url }}" title="Meetup de {{ community.title }}">Meetup</a></li>
+          {% endif %}
+          {% if community.twitter-alias %} 
+          <li><a href="https://twitter.com/{{ community.twitter-alias }}" title="Cuenta de Twitter de {{ community.title }}">Twitter</a></li>
+          {% endif %}
+        </ul>
+    </li>
+{% endfor %}
+</ul>
