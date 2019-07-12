@@ -1,5 +1,5 @@
 # Valencia
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -14,6 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
+    <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4" width="100px;" alt="Rachel M. Carmena"/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/valencia/commits?author=rachelcarmena" title="Documentation">📖</a></td>
     <td align="center"><a href="http://opsit.blogspot.com.es/"><img src="https://avatars2.githubusercontent.com/u/1783343?v=4" width="100px;" alt="Olopez"/><br /><sub><b>Olopez</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/valencia/commits?author=pollosp" title="Documentation">📖</a></td>
   </tr>
 </table>
