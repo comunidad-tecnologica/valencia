@@ -1,4 +1,5 @@
 # Valencia
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -6,7 +7,8 @@
 * [:link: Web](https://comunidad-tecnologica.github.io/valencia/)
 * [:book: Guía de colaboración](CONTRIBUTING.md)
 
-## Contributors ✨
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
