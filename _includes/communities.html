@@ -1,5 +1,6 @@
 <ul>
-{% for community in site.data.communities %}
+{% assign communities = site.data.communities | sort: "title" %}
+{% for community in communities %}
     <li>
         {{ community.title }}:
         <ul>
